@@ -38,7 +38,7 @@
               <q-icon name="book_online" />
             </q-item-section>
 
-            <q-item-section > Diagram </q-item-section>
+            <q-item-section > Diagram 123 </q-item-section>
           </q-item>
 
 
